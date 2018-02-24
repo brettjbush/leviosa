@@ -1,0 +1,19 @@
+/**
+ * @file leviosa main CSS file
+ * @copyright Brett Bush 2018
+ */
+
+.leviosa {
+  box-shadow: 0px 0px 20px rgba(80, 80, 80, 1);
+}
+.basic-box {
+  border: 1px solid;
+  padding: 10px;
+  margin-top: 200px;
+  background-color: #FFFFFF;
+}
+body {
+  padding-left: 20px;
+  padding-right: 30px;
+  background-color: #EEEEEE;
+}
