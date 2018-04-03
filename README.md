@@ -13,6 +13,10 @@ Simply add the `leviosa` class to your elements and watch as your HTML elements 
 </head>
 <body>
   ...
+  <div class="leviosa">
+    ...
+  </div>
+  ...
   <script type="text/javascript" src="leviosa.js"></script>
 </body>
 ```
