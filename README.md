@@ -1,7 +1,8 @@
 # leviosa
-Enchant HTML elements with dynamic, device orientation based shadows, easy as a swish and a flick
 
-Try it out [here](http://bbush.me/leviosa.html)!
+### NOTE: This library is currently not functioning on the Safari Browser of iOS devices.
+
+Enchant HTML elements with dynamic, device orientation based shadows, easy as a swish and a flick
 
 Simply add the `leviosa` class to your elements and watch as your HTML elements float above the background when you tilt around your device.
 
